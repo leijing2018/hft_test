@@ -27,3 +27,5 @@ alter table MERS_RISK_LEVEL_DEF
   
   -- 测试 修改 git
 我靠 我靠   
+
+2018.10.07添加测试数据
