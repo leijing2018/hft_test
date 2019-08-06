@@ -24,9 +24,3 @@ alter table MERS_RISK_LEVEL_DEF
     minextents 1
     maxextents unlimited
   );
-  
-  -- 测试 修改 git
-我靠 我靠   
-
-2018.10.07添加测试数据
-梨很好吃！
